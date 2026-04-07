@@ -1,0 +1,4 @@
+Contact: mailto:security@decisaochave.com.br
+Expires: 2027-04-07T00:00:00.000Z
+Preferred-Languages: pt
+Canonical: https://decisaochave.com.br/.well-known/security.txt

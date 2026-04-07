@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+Allow: /blog
+
+# Bloqueio de bots maliciosos comuns
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+# Sitemap
+Sitemap: https://decisaochave.com.br/sitemap.xml
+
+# Delay padrão
+Crawl-delay: 1
