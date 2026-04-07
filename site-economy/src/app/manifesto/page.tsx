@@ -43,10 +43,7 @@ export default function ManifestoPage() {
         <section className="mb-12 bg-gradient-to-r from-blue-50 to-blue-100 p-8 rounded-lg border-l-4 border-blue-600">
           <h2 className="text-2xl font-bold text-gray-900 mb-4">Preâmbulo</h2>
           <p className="text-gray-700 leading-relaxed">
-            Nós acreditamos em uma economia onde cada participante é valorizado, onde o trabalho é justo, 
-            e onde a transparência é a base de todas as relações comerciais. A Nova Economia não é sobre extrair valor, 
-            mas sobre criar valor juntos. É um sistema onde Captadores, Produtores e Organizadores trabalham em harmonia, 
-            cada um contribuindo com seus talentos únicos e sendo reconhecido por isso.
+            Nós acreditamos em uma economia onde cada participante é valorizado dentro de um contexto de célula, tribo ou família, onde o trabalho é fruto da sinergia de diferentes papéis, entre eles Captadores de recursos, Clientes, Produtores e Organizadores de valor. A Nova Economia não é sobre extrair valor, mas sobre criar valor juntos, baseado em informações claras e precisas. É um sistema onde Captadores, Produtores e Organizadores trabalham em harmonia, cada um contribuindo com seus talentos únicos e sendo reconhecido por isso.
           </p>
         </section>
 
