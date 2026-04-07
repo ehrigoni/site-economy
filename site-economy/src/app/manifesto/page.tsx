@@ -17,8 +17,8 @@ export default function ManifestoPage() {
       description: 'Cada pessoa sabe exatamente qual é seu papel e sua responsabilidade. Não há ambiguidade nas funções.',
     },
     {
-      title: 'Custeio Realista',
-      description: 'Os custos são calculados com realismo: 25% para trabalho do Produtor, alocações econômicas do Organizador, entrega de valor do Captador.',
+      title: 'Custeio Realista - Modelo Padrão',
+      description: 'Todos os custos são inicialmente calculados seguindo um modelo padrão ótimo. Dessa forma é possível saber de antemão o que seria um ganho real para todos os papéis envolvidos. Desvios deste modelo padrão servem como informação para tomadas de decisão e posteriores correções.',
     },
     {
       title: 'Crescimento Colaborativo',
