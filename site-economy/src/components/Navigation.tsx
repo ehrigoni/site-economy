@@ -38,6 +38,16 @@ export default function Navigation() {
             >
               Blog
             </Link>
+            <Link
+              href="/manifesto"
+              className={`px-4 py-2 rounded-md transition-all ${
+                pathname === '/manifesto'
+                  ? 'bg-white text-blue-600 font-semibold'
+                  : 'hover:bg-blue-700'
+              }`}
+            >
+              Manifesto
+            </Link>
           </div>
         </div>
       </div>
