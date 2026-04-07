@@ -3,8 +3,8 @@ import Navigation from '@/components/Navigation'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'SiteEconomy - Sistema de Papéis e Valores',
-  description: 'Tabela de papéis, valores e descrições do sistema economy',
+  title: 'Nova Economia - Sistema de Papéis e Valores',
+  description: 'Tabela de papéis, valores e descrições do sistema de nova economia',
 }
 
 export default function RootLayout({

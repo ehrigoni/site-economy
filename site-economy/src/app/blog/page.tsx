@@ -31,10 +31,10 @@ export default function BlogPage() {
         {/* Header */}
         <div className="mb-12">
           <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-4">
-            Blog SiteEconomy
+            Blog Nova Economia
           </h1>
           <p className="text-xl text-gray-600">
-            Artigos e insights sobre o sistema de papéis e economia
+            Artigos e insights sobre o sistema de papéis e nova economia
           </p>
         </div>
 
@@ -81,7 +81,7 @@ export default function BlogPage() {
             href="/"
             className="inline-block px-6 py-3 bg-white text-blue-600 font-semibold rounded hover:bg-gray-50 transition-colors"
           >
-            Ver Sistema Economy
+            Ver Nova Economia
           </Link>
         </div>
       </div>

@@ -13,7 +13,7 @@ export default function Navigation() {
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2 font-bold text-xl">
             <span>📊</span>
-            <span>SiteEconomy</span>
+            <span>Nova Economia</span>
           </Link>
 
           {/* Menu Items */}

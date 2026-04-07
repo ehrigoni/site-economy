@@ -7,7 +7,7 @@ export default function Home() {
         {/* Header */}
         <div className="text-center mb-12">
           <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-4">
-            SiteEconomy
+            Nova Economia
           </h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
             Sistema de Papéis, Valores e Descrições
@@ -51,7 +51,7 @@ export default function Home() {
 
         {/* Footer */}
         <footer className="mt-16 text-center text-gray-500 text-sm border-t border-gray-200 pt-8">
-          <p>© 2026 SiteEconomy. Todos os direitos reservados.</p>
+          <p>© 2026 Nova Economia. Todos os direitos reservados.</p>
           <p className="mt-2">Hospedado no Vercel</p>
         </footer>
       </div>
