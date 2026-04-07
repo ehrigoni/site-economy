@@ -22,7 +22,7 @@ export default function ManifestoPage() {
     },
     {
       title: 'Crescimento Colaborativo',
-      description: 'O sucesso não é zero-sum. Quando um ganha, os outros também ganham. A economia cresce em conjunto.',
+      description: 'Nesse novo cenário, cada participante integra uma célula, tribo ou família. Nela ele assume um papel que irá trazer o máximo benefício para si e para o grupo. O crescimento do grupo se dará no momento em que cada um fizer a sua parte. O sucesso não é zero-sum. Quando um ganha, os outros também ganham. A economia cresce em conjunto.',
     },
   ]
 
