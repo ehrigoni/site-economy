@@ -19,14 +19,14 @@ export default function Navigation() {
           {/* Menu Items */}
           <div className="flex space-x-1">
             <Link
-              href="/"
+              href="/manifesto"
               className={`px-4 py-2 rounded-md transition-all ${
-                pathname === '/'
+                pathname === '/manifesto'
                   ? 'bg-white text-blue-600 font-semibold'
                   : 'hover:bg-blue-700'
               }`}
             >
-              Economy
+              Manifesto
             </Link>
             <Link
               href="/blog"
@@ -39,14 +39,14 @@ export default function Navigation() {
               Blog
             </Link>
             <Link
-              href="/manifesto"
+              href="/produtos-servicos"
               className={`px-4 py-2 rounded-md transition-all ${
-                pathname === '/manifesto'
+                pathname === '/produtos-servicos'
                   ? 'bg-white text-blue-600 font-semibold'
                   : 'hover:bg-blue-700'
               }`}
             >
-              Manifesto
+              Produtos e Serviços
             </Link>
           </div>
         </div>
